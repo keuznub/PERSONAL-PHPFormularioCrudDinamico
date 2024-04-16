@@ -1,0 +1,37 @@
+body{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 3em;
+    background-color: #a8b0bf;
+    text-align: center;
+}
+
+body *{
+    font-family: sans-serif;
+}
+
+form{
+    padding: 1em;
+    margin-top: 2em;
+    border: 1px solid black;
+    border-radius: 4em;
+    background-color: #92A8D1;
+}
+
+form *{
+    margin: 0.5em;
+}
+
+select , button , option {
+    padding: 0.2em;
+    font-style: bold;
+}
+
+.boton{
+    padding: 0.35em;
+}
+
+
+
+
+
